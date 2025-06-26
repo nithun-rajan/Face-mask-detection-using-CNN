@@ -34,10 +34,10 @@ The model is a **sequential CNN** with the following layers:
 The model is trained for 5 epochs. The following plots were generated:
 
 ### 🔻 Loss Curve
-![Loss Curve](https://github.com/nithun-rajan/Face-mask-detection-using-CNN/blob/main/plots/Figure_1.png?raw=true)
+![Loss Curve](https://github.com/nithun-rajan/Face-mask-detection-using-CNN/blob/main/plots/Figure_1.png?)
 
 ### 🔺 Accuracy Curve
-![Accuracy Curve](https://github.com/nithun-rajan/Face-mask-detection-using-CNN/blob/main/plots/Figure_2.png?raw=true)
+![Accuracy Curve](https://github.com/nithun-rajan/Face-mask-detection-using-CNN/blob/main/plots/Figure_2.png?)
 
 
 ---
