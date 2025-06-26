@@ -34,14 +34,11 @@ The model is a **sequential CNN** with the following layers:
 The model is trained for 5 epochs. The following plots were generated:
 
 ### 🔻 Loss Curve
-Shows how training and validation loss decrease over epochs.
-
-![Loss Curve](./plots/Figure_1.png)
+![Loss Curve](https://github.com/nithun-rajan/Face-mask-detection-using-CNN/blob/main/plots/Figure_1.png?raw=true)
 
 ### 🔺 Accuracy Curve
-Demonstrates increasing model accuracy over time.
+![Accuracy Curve](https://github.com/nithun-rajan/Face-mask-detection-using-CNN/blob/main/plots/Figure_2.png?raw=true)
 
-![Accuracy Curve](./plots/Figure_2.png)
 
 ---
 
